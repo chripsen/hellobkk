@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body {background-color:#FFF; color:#000; font-family:Verdana, Geneva, sans-serif;}
+
+h1,h2,h3 {font-style:italic;}
+
+#colorSelect {margin:10px 0;}
+#colorSelect img {vertical-align:top; cursor:pointer;}
+
+#sizeSelect {margin:10px 0;}
+#sizeSelect span {background-color:#030; color:#FFF; padding:3px; cursor:pointer;}
